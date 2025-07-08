@@ -1,0 +1,10 @@
+let a = 5, b = 3;
+console.log(a + b);
+console.log(a - b);
+console.log(a * b);
+console.log(a / b);
+console.log(a % b);
+console.log(a == b);
+console.log(a != b);
+console.log(a > b && b > 1);
+console.log(a > b || b < 1);

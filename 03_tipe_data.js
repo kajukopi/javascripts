@@ -1,0 +1,10 @@
+let teks = "Halo";
+let angka = 123;
+let benar = true;
+let kosong = null;
+let tidakAda;
+console.log(typeof teks);
+console.log(typeof angka);
+console.log(typeof benar);
+console.log(typeof kosong);
+console.log(typeof tidakAda);
